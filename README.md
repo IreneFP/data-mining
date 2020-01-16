@@ -1,2 +1,3 @@
 # Data Mining for Business and Governance
-Tilburg University - Python
+Tilburg University in class activities
+Python
